@@ -438,6 +438,7 @@ footer{
   }
   .hero h1{
     width: 319px;
+    font-family: 'FontAwesome';
   }
   .hero p{
     width: 520px;
@@ -470,11 +471,17 @@ footer{
     padding-left: 100px;
     margin-bottom: 30px;
   }
+
+  .skills .progress .skill{
+    padding-top: 10px
+    ;
+  }
   section.resume{
     width: 520px;
-    height: 1900px;
+    height: 1800px;
     margin-left: 90px;
-    margin-bottom: 0px;
+    margin-bottom: 100px;
+
   }
   .section-title h2{
     padding-right: 0px;
@@ -493,11 +500,4 @@ footer{
     padding-right: 0px;
     margin-left: 135px;
   }
-
-  
-
-
-
-
-
 }
